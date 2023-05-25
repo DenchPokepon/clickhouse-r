@@ -7,7 +7,7 @@ This R package provides a DBI client for the ClickHouse database
 * the latest development version from github with
 
     ```R
-    devtools::install_github("hannesmuehleisen/clickhouse-r")
+    devtools::install_github("DenchPokepon/clickhouse-r")
     ```
 
 If you encounter a bug, please file a minimal reproducible example on [github](https://github.com/hannesmuehleisen/clickhouse-r/issues).
